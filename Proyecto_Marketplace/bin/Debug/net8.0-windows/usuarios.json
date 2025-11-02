@@ -1,17 +1,29 @@
 [
   {
-    "contacto": "2",
+    "contacto": "3644544662",
     "Rol": "Usuario",
-    "Cuil": "2",
-    "NombreUsuario": "Facu",
-    "Contraseña": "1234"
+    "Cuil": "20462478098",
+    "Email": "josephwantstosleep@gmail.com",
+    "IsEmailVerified": false,
+    "NombreUsuario": "Facumax",
+    "Contraseña": "Facu2004"
   },
   {
-    "contacto": "22",
+    "contacto": "3644544662",
+    "Rol": "Usuario",
+    "Cuil": "20462478098",
+    "Email": "josephwantstosleep@gmail.com",
+    "IsEmailVerified": true,
+    "NombreUsuario": "Facunditomax2",
+    "Contraseña": "facu2004"
+  },
+  {
+    "contacto": "0",
     "Rol": "Admin",
-    "Cuil": "2",
-    "NombreUsuario": "Facu2",
-    "Contraseña": "1234"
+    "Cuil": "0",
+    "Email": "0",
+    "IsEmailVerified": true,
+    "NombreUsuario": "admin",
+    "Contraseña": "admin"
   }
-
 ]
